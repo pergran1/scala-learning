@@ -32,4 +32,5 @@ object values_variables_types extends App{
   // changed
   a_variable = 4
   println(f"The variable is $a_variable")  //using f string
+  println(f"Test for variable ${a_variable + x} " + (a_variable + x))
 }
