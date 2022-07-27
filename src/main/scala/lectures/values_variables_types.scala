@@ -7,7 +7,7 @@ object values_variables_types extends App{
 
   val y = 3  // this also works
 
- // val z: Int = "hekko" this wont work
+ // val z: Int = "helloo" this wont work
 
   println(x +y)
 
