@@ -1,10 +1,10 @@
-package lectures
+package lectures.part1basics
 
-object string_operations extends App{
+object string_operations extends App {
   val str: String = "This is a cool string in scala!"
 
-  println(f"This is the charAt method: ${str.charAt(2)}" +" this also works: " +  str.charAt(2))
-  println(str.substring(3,8)) // take part of string
+  println(f"This is the charAt method: ${str.charAt(2)}" + " this also works: " + str.charAt(2))
+  println(str.substring(3, 8)) // take part of string
   println(str.toLowerCase())
   println(str.split(" ").toList)
   println(str.startsWith("This"))
@@ -16,7 +16,7 @@ object string_operations extends App{
 
   val num_str: String = "45"
   val num: Int = num_str.toInt
-  println(num + 5 + " " + num_str +  f" The num str is can be changed to a int with toInt")
+  println(num + 5 + " " + num_str + f" The num str is can be changed to a int with toInt")
 
   // s-interpolators
   val name = "David"
@@ -26,7 +26,7 @@ object string_operations extends App{
 
   // F-interpolators
   val speed = 1.2f
-  val myth = f"$name can eat $speed%2.2f per minute"  // F-interpolator can change format by ising "%2.2f"
+  val myth = f"$name can eat $speed%2.2f per minute" // F-interpolator can change format by ising "%2.2f"
   println(myth)
 
   // raw-interpolator
@@ -34,5 +34,5 @@ object string_operations extends App{
   println("This is a \nnewline")
 
   val str_test = "This is a \n newline"
-  println(raw"$str_test")  //raw does not work now when it is a variable
+  println(raw"$str_test") //raw does not work now when it is a variable
 }
