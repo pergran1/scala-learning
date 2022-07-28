@@ -28,4 +28,11 @@ object string_operations extends App{
   val speed = 1.2f
   val myth = f"$name can eat $speed%2.2f per minute"  // F-interpolator can change format by ising "%2.2f"
   println(myth)
+
+  // raw-interpolator
+  println(raw"This is a \n newline")
+  println("This is a \nnewline")
+
+  val str_test = "This is a \n newline"
+  println(raw"$str_test")  //raw does not work now when it is a variable
 }
