@@ -63,6 +63,7 @@ object SparkTest extends App{
      */
     carsDF.printSchema()
     carsDF.show()
+    carsDF.select("Year", "Horsepower").show()
 
 
 
