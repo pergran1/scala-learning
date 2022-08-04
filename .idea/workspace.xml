@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="237705af-a32f-4672-ac27-058a51633eb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Loops.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scalatestar-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scalatestar-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scalatestar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scalatestar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/hej.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/FPbasics/SparkTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/FPbasics/SparkTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/testar.sc" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Lists.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Maps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
@@ -31,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +49,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Maps">
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.Lists" />
+      <module name="scalatestar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Loops" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="playground.Loops" />
       <module name="scalatestar" />
@@ -61,8 +76,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Maps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.Maps" />
+      <module name="scalatestar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maps" />
+        <item itemvalue="Application.Lists" />
         <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
@@ -82,7 +112,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1659534793744</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="updated">
+      <created>1659535666919</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1659535666919</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Updated loops">
+      <created>1659540630120</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1659540630120</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +140,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="Updated loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated loops" />
   </component>
 </project>
