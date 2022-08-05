@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="237705af-a32f-4672-ac27-058a51633eb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Lists.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Maps.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/playground/Maps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/playground/Maps.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +123,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1659540630120</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Updated loops">
+      <created>1659648522701</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1659648522701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
