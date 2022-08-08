@@ -2,7 +2,7 @@ package lectures.FPbasics
 
 object HOFsCurries extends App{
   // Takes a int and a function
-  // Higher order fucntion, HOF
+  // Higher order function, HOF
   val super_function: (Int, (String, (Int => Boolean)) => Int) => (Int => Int) = ???
 
   // map, flatMap, filter in mylist
