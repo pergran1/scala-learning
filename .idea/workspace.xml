@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="237705af-a32f-4672-ac27-058a51633eb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/functionalProgramming.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Pattern_matching.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/FPbasics/HOFsCurries.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/FPbasics/HOFsCurries.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.functionalProgramming">
+  <component name="RunManager" selected="Application.Pattern_matching">
     <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="playground.Lists" />
       <module name="scalatestar" />
@@ -89,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern_matching" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.Pattern_matching" />
+      <module name="scalatestar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="functionalProgramming" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="playground.functionalProgramming" />
       <module name="scalatestar" />
@@ -104,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_matching" />
         <item itemvalue="Application.functionalProgramming" />
         <item itemvalue="Application.Maps" />
         <item itemvalue="Application.Lists" />
@@ -150,7 +163,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1659738395067</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Uppdated function">
+      <created>1659987613752</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1659987613752</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +186,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated" />
     <MESSAGE value="Updated loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated loops" />
+    <MESSAGE value="Uppdated function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppdated function" />
   </component>
 </project>
