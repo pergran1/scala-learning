@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237705af-a32f-4672-ac27-058a51633eb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Pattern_matching.scala" afterDir="false" />
+    <list default="true" id="237705af-a32f-4672-ac27-058a51633eb7" name="Changes" comment="Uppdated function">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Advanced_things.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +48,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Pattern_matching">
-    <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.Lists" />
+  <component name="RunManager" selected="Application.Advanced_things">
+    <configuration name="Advanced_things" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.Advanced_things" />
       <module name="scalatestar" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.Loops" />
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.Lists" />
       <module name="scalatestar" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Advanced_things" />
         <item itemvalue="Application.Pattern_matching" />
         <item itemvalue="Application.functionalProgramming" />
         <item itemvalue="Application.Maps" />
         <item itemvalue="Application.Lists" />
-        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1659987613752</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Uppdated function">
+      <created>1660162855769</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1660162855769</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
