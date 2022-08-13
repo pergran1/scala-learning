@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="237705af-a32f-4672-ac27-058a51633eb7" name="Changes" comment="Uppdated function">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Advanced_things.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercises/w3resourceBasic.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Monads.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scalatestar-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scalatestar-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scalatestar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scalatestar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/FPbasics/MapFlatmapFilter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/FPbasics/MapFlatmapFilter.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +53,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Advanced_things">
+  <component name="RunManager" selected="Application.w3resourceBasic">
     <configuration name="Advanced_things" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="playground.Advanced_things" />
       <module name="scalatestar" />
@@ -62,8 +72,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.Lists" />
+    <configuration name="Excercises" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Practical.Excercises" />
+      <module name="scalatestar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practical.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercises" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Practical.Exercises" />
+      <module name="scalatestar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practical.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Monads" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.Monads" />
       <module name="scalatestar" />
       <extension name="coverage">
         <pattern>
@@ -75,38 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maps" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.Maps" />
+    <configuration name="w3resourceBasic" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.w3resourceBasic" />
       <module name="scalatestar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern_matching" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.Pattern_matching" />
-      <module name="scalatestar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="functionalProgramming" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.functionalProgramming" />
-      <module name="scalatestar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.w3resourceBasic" />
+        <item itemvalue="Application.Exercises" />
+        <item itemvalue="Application.Excercises" />
+        <item itemvalue="Application.Monads" />
         <item itemvalue="Application.Advanced_things" />
-        <item itemvalue="Application.Pattern_matching" />
-        <item itemvalue="Application.functionalProgramming" />
-        <item itemvalue="Application.Maps" />
-        <item itemvalue="Application.Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +185,13 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1660162855769</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="Uppdated function">
+      <created>1660333620800</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1660333620800</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

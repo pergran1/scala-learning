@@ -56,4 +56,11 @@ object MapFlatmapFilter extends App{
     x * 2
   }
 
+  /*
+  Exercises
+  1. MyList supports for comprehensions?
+  2. A small collection of at most ONE element - Maybe[+T]
+    - map, flatMap, filter
+   */
+
 }
