@@ -51,6 +51,18 @@ object w3resourceBasic extends App{
 
   //  Write a Scala program to remove the character in a given position of a given string.
   //  The given position will be in the range 0...string length -1 inclusive
+  def removeChar(str: String, index: Int): String = {
+    str.substring(0, index) + str.substring(index+1)
+  }
+  println(removeChar("hello", 0))
+
+  //Write a Scala program to exchange the first and last characters in a given string and return the new string
+  def replaceFirstLast(str: String): String = {
+    val firstLetter = str.head
+    val lastLetter = str.last
 
 
+    lastLetter + str.substring(1, str.length-1) + firstLetter
+  }
+println(replaceFirstLast("scala"))
 }

@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237705af-a32f-4672-ac27-058a51633eb7" name="Changes" comment="Uppdated function">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercises/w3resourceBasic.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/Monads.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scalatestar-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scalatestar-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scalatestar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scalatestar.iml" afterDir="false" />
+    <list default="true" id="237705af-a32f-4672-ac27-058a51633eb7" name="Changes" comment="Added file for exercises from w3resource">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Exercises/ListExercises.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/FPbasics/MapFlatmapFilter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/FPbasics/MapFlatmapFilter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Exercises/w3resourceBasic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Exercises/w3resourceBasic.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,25 +48,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.w3resourceBasic">
-    <configuration name="Advanced_things" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.Advanced_things" />
-      <module name="scalatestar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ListExercises">
     <configuration name="Excercises" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Practical.Excercises" />
       <module name="scalatestar" />
@@ -91,6 +72,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practical.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExercises" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.ListExercises" />
+      <module name="scalatestar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListExercises" />
         <item itemvalue="Application.w3resourceBasic" />
         <item itemvalue="Application.Exercises" />
         <item itemvalue="Application.Excercises" />
         <item itemvalue="Application.Monads" />
-        <item itemvalue="Application.Advanced_things" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +185,13 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1660333620800</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="Added file for exercises from w3resource">
+      <created>1660414276580</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1660414276580</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +209,7 @@
     <MESSAGE value="updated" />
     <MESSAGE value="Updated loops" />
     <MESSAGE value="Uppdated function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uppdated function" />
+    <MESSAGE value="Added file for exercises from w3resource" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added file for exercises from w3resource" />
   </component>
 </project>
