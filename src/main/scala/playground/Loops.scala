@@ -43,4 +43,21 @@ object Loops extends App {
   println(list1.flatMap(x => List(6,7, 8).map( y => (x, s"testing $y"))))
 
 
+
+  val current_list: List[Int] = List(10, 16, 10, 16, 32)
+  val voltage_list: List[Int] = List(230, 230, 400, 400, 400)
+
+  // Must use CURLY BRACETS to indicate that it is multiline, that way I can use val x and cal y
+  (0 until current_list.length).foreach{n =>
+    val x = current_list(n)
+    val y = voltage_list(n)
+    if (n % 2 == 0)
+      println("hoho")
+    else
+      println("haha")
+  }
+
+
+
+
 }

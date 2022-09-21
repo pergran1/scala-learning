@@ -1,6 +1,8 @@
 package Exercises
 // https://www.w3resource.com/scala-exercises/basic/index.php
 
+// Another website with problems to solve: http://aperiodic.net/phil/scala/s-99/
+
 object w3resourceBasic extends App{
 
 
