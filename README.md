@@ -1,4 +1,4 @@
-# Scala learning
+# Learning Scala
 
 Here I write some code that comes from Rock The JVM two Scala courses [Scala Essential](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/) and [Scala Advanced](https://www.udemy.com/course/advanced-scala/)
 
